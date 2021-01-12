@@ -1,0 +1,2 @@
+# EFI-GIGABYTE-H110M-H-BIGSUR-OPENCORE
+EFI folder from my old Gigabyte H110M-H I3-6700
